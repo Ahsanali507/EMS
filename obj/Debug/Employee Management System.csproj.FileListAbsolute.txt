@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form1.resources
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Properties.Resources.resources
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe.config
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\bin\Debug\Employee Management System.exe
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\bin\Debug\Employee Management System.pdb
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.exe
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee Management System.pdb
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form2.resources
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form3.resources
+C:\Users\hp\source\repos\Employee Management System\Employee Management System\obj\Debug\Employee_Management_System.Form4.resources
